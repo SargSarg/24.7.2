@@ -1,0 +1,6 @@
+valid_email = "sargok@list.ru"
+valid_password = "dolblat1616"
+invalid_email = "sarglist.ru"
+invalid_password = "lblat1616"
+absence_email = ""
+absence_password = ""
